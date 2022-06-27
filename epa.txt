@@ -1,0 +1,8 @@
+poblacion 47.007.367
+viviendas totales 25.208.623
+viviendas vacias 3.443.365
+nacimientos 393.181
+defunciones 424.523
+ocupados 19.471.000
+parados 3.354.000
+https://www.ine.es/dyngs/INEbase/listaoperaciones.htm
